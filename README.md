@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to CIS220 Github
+
+This page is a Github default. This highlights some of the capabilities of your Github page.
 
 You can use the [editor on GitHub](https://github.com/OTC-CISRiley/CIS220-SP18/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
